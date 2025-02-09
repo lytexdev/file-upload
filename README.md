@@ -16,8 +16,8 @@ A flask web application for securely uploading files with user authentication an
 
 **Clone the repository**
 ```bash
-git clone https://github.com/lytexdev/FileUpload.git
-cd FileUpload
+git clone https://github.com/lytexdev/file-upload.git
+cd file-upload
 ```
 
 **Copy and rename `.env.example` to `.env`**
